@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0bkLcHB8A9Y=",
+  "success": true,
+  "projectFilePath": "/Users/nikolaosgiannakis/Desktop/Development/Carsties/src/AuctionService/AuctionService.csproj",
+  "expectedPackageFiles": [
+    "/Users/nikolaosgiannakis/.nuget/packages/microsoft.aspnetcore.openapi/9.0.2/microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "/Users/nikolaosgiannakis/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
